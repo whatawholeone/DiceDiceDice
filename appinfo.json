@@ -1,0 +1,67 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Tophatstudio",
+    "longName": "Dice Dice Dice",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/twenty_28_42.png",
+                "name": "IMAGES_TWENTY_28_42_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/twelve_28_42.png",
+                "name": "IMAGES_TWELVE_28_42_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/four_28_42.png",
+                "name": "IMAGES_FOUR_28_42_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/six_28_42.png",
+                "name": "IMAGES_SIX_28_42_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Dice Dice Dice",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "a8f4b8b0-4f1a-4977-a4d1-47a0e9786a88",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
